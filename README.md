@@ -46,5 +46,9 @@ This will generate **optimized drone routes, cluster visualizations, and perform
 ## **Project Outputs**
 
 - **Clustered Need Points Visualization**: Displays how aid locations are grouped.
+- ![Clustered Need Points](screenshots/cluster_visualization.png)
 - **Optimized Drone Routes**: Shows shortest paths calculated for each drone.
+- ![Optimized Drone Routes](screenshots/drone_routes.png)
 - **Performance Metrics**: Includes total travel distance, number of deliveries, and efficiency analysis.
+- ![Performance Metrics](screenshots/performance_metrics.png)
+
